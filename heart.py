@@ -3,7 +3,7 @@ import pickle
 # from joblib import load
 import datetime as dt
 # import skops.io as sio
-from sklearn.metrics import f1_score,r2_score
+# from sklearn.metrics import f1_score,r2_score
 
 
 st.title("Heart Disease Prediction")
